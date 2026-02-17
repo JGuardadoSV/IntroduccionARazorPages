@@ -5,6 +5,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace WebApplication1.Entidades
 {
+    
     public class Producto
     {
         public int Id { get; set; }
